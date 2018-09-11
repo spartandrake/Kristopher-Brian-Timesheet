@@ -1,0 +1,11 @@
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\bin\Debug\netcoreapp2.1\TimeClock.Test.deps.json
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\bin\Debug\netcoreapp2.1\TimeClock.Test.runtimeconfig.json
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\bin\Debug\netcoreapp2.1\TimeClock.Test.runtimeconfig.dev.json
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\bin\Debug\netcoreapp2.1\TimeClock.Test.dll
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\obj\Debug\netcoreapp2.1\TimeClock.Test.csprojAssemblyReference.cache
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\obj\Debug\netcoreapp2.1\TimeClock.Test.csproj.CoreCompileInputs.cache
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\obj\Debug\netcoreapp2.1\TimeClock.Test.AssemblyInfoInputs.cache
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\obj\Debug\netcoreapp2.1\TimeClock.Test.AssemblyInfo.cs
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll

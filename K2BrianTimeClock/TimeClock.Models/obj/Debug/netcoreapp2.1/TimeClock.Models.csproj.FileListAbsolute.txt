@@ -1,0 +1,6 @@
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\bin\Debug\netcoreapp2.1\TimeClock.Models.deps.json
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\bin\Debug\netcoreapp2.1\TimeClock.Models.dll
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.csprojAssemblyReference.cache
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.csproj.CoreCompileInputs.cache
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.AssemblyInfoInputs.cache
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.AssemblyInfo.cs
