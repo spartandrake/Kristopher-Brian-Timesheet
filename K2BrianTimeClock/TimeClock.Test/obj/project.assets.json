@@ -104,6 +104,19 @@
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll": {}
         }
       },
+      "Microsoft.EntityFrameworkCore.Relational.Design/1.1.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "1.1.6",
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.Design.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.Design.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore.SqlServer/2.1.2": {
         "type": "package",
         "dependencies": {
@@ -115,6 +128,20 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.SqlServer.Design/1.1.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational.Design": "1.1.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "1.1.6",
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.3/Microsoft.EntityFrameworkCore.SqlServer.Design.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.EntityFrameworkCore.SqlServer.Design.dll": {}
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/2.1.1": {
@@ -2058,6 +2085,40 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "K2BrianTimeClock.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.2",
+          "Microsoft.EntityFrameworkCore.Design": "2.1.2",
+          "Microsoft.EntityFrameworkCore.Relational": "2.1.2",
+          "Microsoft.EntityFrameworkCore.Relational.Design": "1.1.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.2",
+          "Microsoft.EntityFrameworkCore.SqlServer.Design": "1.1.6",
+          "Microsoft.NETCore.App": "2.1.0",
+          "TimeClock.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/K2BrianTimeClock.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/K2BrianTimeClock.DAL.dll": {}
+        }
+      },
+      "TimeClock.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.1.2"
+        },
+        "compile": {
+          "bin/placeholder/TimeClock.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimeClock.Models.dll": {}
+        }
       }
     }
   },
@@ -2239,6 +2300,20 @@
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
+    "Microsoft.EntityFrameworkCore.Relational.Design/1.1.6": {
+      "sha512": "XVlEYWa4C0ZeO4MbiOlrRdz3ujaHJVYe1tK0IUh8dAT5OW1qAgUKcz2VEwj41tIBxBkeyMzj5UEECdpi3KQFkg==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.relational.design/1.1.6",
+      "files": [
+        ".signature.p7s",
+        "lib/net451/Microsoft.EntityFrameworkCore.Relational.Design.dll",
+        "lib/net451/Microsoft.EntityFrameworkCore.Relational.Design.xml",
+        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.Design.dll",
+        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.Relational.Design.xml",
+        "microsoft.entityframeworkcore.relational.design.1.1.6.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.design.nuspec"
+      ]
+    },
     "Microsoft.EntityFrameworkCore.SqlServer/2.1.2": {
       "sha512": "ztryNz3AT0QGZPVSOY8UD5OCj1KpYFgJTt13UbvyhsxY2ewe8af9z+vAu1zs8OIrd+BMpncLUfVvrNJS+5azRg==",
       "type": "package",
@@ -2249,6 +2324,20 @@
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
         "microsoft.entityframeworkcore.sqlserver.2.1.2.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.SqlServer.Design/1.1.6": {
+      "sha512": "UgXcudeAi4mFO3Ynk12lfEDbsNWmDS8IgX+kJKrgxFaAl/E3yzJmF+8kR0MJ1n7NHAeAzL+Hb6w1+K6x9Yss8A==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.sqlserver.design/1.1.6",
+      "files": [
+        ".signature.p7s",
+        "lib/net451/Microsoft.EntityFrameworkCore.SqlServer.Design.dll",
+        "lib/net451/Microsoft.EntityFrameworkCore.SqlServer.Design.xml",
+        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.SqlServer.Design.dll",
+        "lib/netstandard1.3/Microsoft.EntityFrameworkCore.SqlServer.Design.xml",
+        "microsoft.entityframeworkcore.sqlserver.design.1.1.6.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.design.nuspec"
       ]
     },
     "Microsoft.Extensions.Caching.Abstractions/2.1.1": {
@@ -6874,16 +6963,28 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "K2BrianTimeClock.DAL/1.0.0": {
+      "type": "project",
+      "path": "../K2BrianTimeClock/K2BrianTimeClock.DAL.csproj",
+      "msbuildProject": "../K2BrianTimeClock/K2BrianTimeClock.DAL.csproj"
+    },
+    "TimeClock.Models/1.0.0": {
+      "type": "project",
+      "path": "../TimeClock.Models/TimeClock.Models.csproj",
+      "msbuildProject": "../TimeClock.Models/TimeClock.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "K2BrianTimeClock.DAL >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 2.1.2",
       "Microsoft.EntityFrameworkCore.Design >= 2.1.2",
       "Microsoft.EntityFrameworkCore.Relational >= 2.1.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.1.2",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
+      "TimeClock.Models >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -6917,7 +7018,14 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj": {
+              "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj"
+            },
+            "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj": {
+              "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

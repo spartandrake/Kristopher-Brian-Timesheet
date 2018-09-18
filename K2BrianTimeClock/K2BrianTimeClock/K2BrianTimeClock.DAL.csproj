@@ -24,5 +24,8 @@
       </Version>
     </DotNetCliToolReference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TimeClock.Models\TimeClock.Models.csproj" />
+  </ItemGroup>
 
 </Project>

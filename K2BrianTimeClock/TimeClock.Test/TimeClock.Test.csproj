@@ -18,4 +18,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\K2BrianTimeClock\K2BrianTimeClock.DAL.csproj" />
+    <ProjectReference Include="..\TimeClock.Models\TimeClock.Models.csproj" />
+  </ItemGroup>
+
 </Project>
