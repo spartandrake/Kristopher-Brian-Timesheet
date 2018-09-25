@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K2BrianTimeClock.DAL", "K2BrianTimeClock\K2BrianTimeClock.DAL.csproj", "{522B3E47-0CDC-4337-9F9F-989E2BA5EFB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "K2BrianTimeClock.DAL", "K2BrianTimeClock\K2BrianTimeClock.DAL.csproj", "{522B3E47-0CDC-4337-9F9F-989E2BA5EFB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClock.Models", "TimeClock.Models\TimeClock.Models.csproj", "{C22E851A-18D7-4938-93D5-88CB3E3D0D66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeClock.Models", "TimeClock.Models\TimeClock.Models.csproj", "{C22E851A-18D7-4938-93D5-88CB3E3D0D66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClock.Test", "TimeClock.Test\TimeClock.Test.csproj", "{CADBF35D-DF98-4D03-B926-46BF4B42EC49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeClock.Test", "TimeClock.Test\TimeClock.Test.csproj", "{CADBF35D-DF98-4D03-B926-46BF4B42EC49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
