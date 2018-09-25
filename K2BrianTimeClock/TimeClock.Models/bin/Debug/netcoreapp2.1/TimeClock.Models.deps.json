@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "TimeClock.Models/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.1.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.2"
         },
         "runtime": {

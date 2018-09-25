@@ -6,3 +6,9 @@ C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2Br
 C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CoreCompileInputs.cache
 C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfoInputs.cache
 C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfo.cs
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.dll
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.pdb
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CopyComplete
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.dll
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb
