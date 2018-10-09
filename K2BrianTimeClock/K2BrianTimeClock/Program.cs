@@ -6,7 +6,7 @@ namespace K2BrianTimeClock
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Automagicly");
         }
     }
 }
