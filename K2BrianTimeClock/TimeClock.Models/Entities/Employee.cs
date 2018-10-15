@@ -15,5 +15,6 @@ namespace TimeClock.Models.Entities
 
         [DataType(DataType.Text), MaxLength(50)]
         public string EmployeeLastName { get; set; }
+
     }
 }
