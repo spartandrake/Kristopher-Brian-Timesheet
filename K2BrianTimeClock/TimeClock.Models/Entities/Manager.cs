@@ -6,5 +6,6 @@ namespace TimeClock.Models.Entities
 {
     class Manager : Employee
     {
+
     }
 }

@@ -3652,7 +3652,11 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
         "C:\\Users\\smart\\Documents\\GitHub\\KIISpyStore\\KristopherCreelSpyStore.DAL\\nugetpackages": {},
+=======
+        "C:\\Users\\Tayco\\source\\repos\\BrianDuncanSpyStore.DAL": {},
+>>>>>>> a965a4cca73e5406fbd1f00fb57fa1b0e4abf003
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
