@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TimeClock.Models.ViewModels
 {
-    class EmployeeWithTimeSheet
+    class EmployeeWithCurrentTimeSheet
     {
     }
 }
