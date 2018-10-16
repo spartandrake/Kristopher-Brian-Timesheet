@@ -2301,7 +2301,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational.Design/1.1.6": {
-      "sha512": "9oGioQfFA1Lfo+gEQR5y2CJ8Laev17WXgosYN+TAlwC92KCeeKVNOLtkz0nqDhVUlIWp7VVRXEX92GSRsdd+Xg==",
+      "sha512": "XVlEYWa4C0ZeO4MbiOlrRdz3ujaHJVYe1tK0IUh8dAT5OW1qAgUKcz2VEwj41tIBxBkeyMzj5UEECdpi3KQFkg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational.design/1.1.6",
       "files": [
@@ -2327,7 +2327,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.SqlServer.Design/1.1.6": {
-      "sha512": "TBH6CWmLns4U38WO64Q9ecOcWdMHCdFX/2vM4aJtbrt2CftG4TbAY5/9BNVacw/64HbCv7Hzjk/5xU26gxL8Xg==",
+      "sha512": "UgXcudeAi4mFO3Ynk12lfEDbsNWmDS8IgX+kJKrgxFaAl/E3yzJmF+8kR0MJ1n7NHAeAzL+Hb6w1+K6x9Yss8A==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlserver.design/1.1.6",
       "files": [
@@ -3577,7 +3577,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.0.1": {
-      "sha512": "vd1VdiEINPkWQRjAwtymwlQKFVTmuu5lPkWpF9ekazyL07XQGtUKGwm9KnTjO+BKxE1iytoBFIQ/VVJ5s5Ce3w==",
+      "sha512": "hMxFT2RhhlffyCdKLDXjx8WEC5JfCvNozAZxCablAuFRH74SCV4AgzE8yJCh/73bFnEoZgJ9MJmkjQ0dJmnKqA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.0.1",
       "files": [
@@ -4115,7 +4115,7 @@
       ]
     },
     "System.Diagnostics.Process/4.1.0": {
-      "sha512": "CSiUXOvejrY46KH5c772176oQYPpdz8hK5BedbPNB9d3/o9TE6q8lu5dE/HCJ9yGmB7ScfxZYhN1nQWlLzlu0A==",
+      "sha512": "mpVZ5bnlSs3tTeJ6jYyDJEIa6tavhAd88lxq1zbYhkkCu0Pno2+gHXcvZcoygq2d8JxW3gojXqNJMTAshduqZA==",
       "type": "package",
       "path": "system.diagnostics.process/4.1.0",
       "files": [
@@ -4389,7 +4389,7 @@
       ]
     },
     "System.Dynamic.Runtime/4.0.11": {
-      "sha512": "6ej2mQIGNPtTTJe+AD6CzlD1D71Q/bjsVo8FQv02lipy72fQOZTbcnM4NUAbVEWV8ZdpAn70TkVeAvnCXOE5Lg==",
+      "sha512": "db34f6LHYM0U0JpE+sOmjar27BnqTVkbLJhgfwMpTdgTigG/Hna3m2MYVwnFzGGKnEJk2UXFuoVTr8WUbU91/A==",
       "type": "package",
       "path": "system.dynamic.runtime/4.0.11",
       "files": [
@@ -4884,7 +4884,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "TxwOoUJaWFHSoKrL4wOoqm7ISpP1MoOeESRXcY+ccfan21bDTGFe1xIaqvY9Bw4t79ay6pA7E4+dt9EfSOR+rA==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -5273,7 +5273,7 @@
       ]
     },
     "System.Reflection.Metadata/1.3.0": {
-      "sha512": "w180MbO0WcMn+d5DOoPUvTRszgT9VO3JTgOLe0FK/OGQSMj6fdhPnnLRdxXsbfW9v2dOZ8XIu70WYWaz7Y2Ffw==",
+      "sha512": "jMSCxA4LSyKBGRDm/WtfkO03FkcgRzHxwvQRib1bm2GZ8ifKM1MX1al6breGCEQK280mdl9uQS7JNPXRYk90jw==",
       "type": "package",
       "path": "system.reflection.metadata/1.3.0",
       "files": [
@@ -5799,7 +5799,7 @@
       ]
     },
     "System.Runtime.Loader/4.0.0": {
-      "sha512": "uUO6ZGAdgpJKIlgQYlW06o9k1YO1h9fWeCHxLlwIunIBCF84Y7o+2NREplNPct4mD/yYDbBi+PT7fPRyKsxUSQ==",
+      "sha512": "4UN78GOVU/mbDFcXkEWtetJT/sJ0yic2gGk1HSlSpWI0TDf421xnrZTDZnwNBapk1GQeYN7U1lTj/aQB1by6ow==",
       "type": "package",
       "path": "system.runtime.loader/4.0.0",
       "files": [
@@ -5880,7 +5880,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.1.1": {
-      "sha512": "d3/VDWwFJ0LYcLiXRAzAvXOW0Tc7HeSzjK9D7gXQupE92FfW+MIP0iAyPSmyhut7R70LGfhFJmQJ4EXHTpz8Ow==",
+      "sha512": "HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.1.1",
       "files": [
@@ -6444,7 +6444,7 @@
       ]
     },
     "System.Threading.Thread/4.0.0": {
-      "sha512": "4aTSzevDF4+g+iEo79ZHYNvU5m1MESPGkv+SWZlqBO+Mpk0upQQAemb8aEgy3Lg9ziIBhP6DXz3y6OntvM100A==",
+      "sha512": "gIdJqDXlOr5W9zeqFErLw3dsOsiShSCYtF9SEHitACycmvNvY8odf9kiKvp6V7aibc8C4HzzNBkWXjyfn7plbQ==",
       "type": "package",
       "path": "system.threading.thread/4.0.0",
       "files": [
@@ -6482,7 +6482,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.0.10": {
-      "sha512": "dGyd82Ep4QvN0YqcFPsUS9L5nOLAloCuUyuxXTiNM2kP3QN3SzifATSPMfCcgAx2KptxhXRsvYTXLKeaD6SC5A==",
+      "sha512": "IMXgB5Vf/5Qw1kpoVgJMOvUO1l32aC+qC3OaIZjWJOjvcxuxNWOK2ZTWWYXfij22NHxT2j1yWX5vlAeQWld9vA==",
       "type": "package",
       "path": "system.threading.threadpool/4.0.10",
       "files": [
@@ -6656,7 +6656,7 @@
       ]
     },
     "System.Xml.XmlDocument/4.0.1": {
-      "sha512": "fAflDQVm1sck8Mrr5JHtGmbx1zlfRZrk2tcIjxo94/edaj9L0Yw7GlgE0WnBn20QS8VjbcO+DhmsXaobygrJ3Q==",
+      "sha512": "2eZu6IP+etFVBBFUFzw2w6J21DqIN5eL9Y8r8JfJWUmV28Z5P0SNU01oCisVHQgHsDhHPnmq2s1hJrJCFZWloQ==",
       "type": "package",
       "path": "system.xml.xmldocument/4.0.1",
       "files": [
@@ -6762,7 +6762,7 @@
       ]
     },
     "System.Xml.XPath/4.0.1": {
-      "sha512": "J3UNvnTd4JLZ1tnZey37yJ30e9H5MgW4UYgGP+wnmgS3GR6irlQBtYyt+W51o3O9n07+KDFA2d9YepXt7wsJuw==",
+      "sha512": "UWd1H+1IJ9Wlq5nognZ/XJdyj8qPE4XufBUkAW59ijsCPjZkZe0MUzKKJFBr+ZWBe5Wq1u1d5f2CYgE93uH7DA==",
       "type": "package",
       "path": "system.xml.xpath/4.0.1",
       "files": [
@@ -6990,23 +6990,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mikae\\.nuget\\packages\\": {},
+    "C:\\Users\\smart\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\TimeClock.Test.csproj",
+      "projectUniqueName": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\TimeClock.Test.csproj",
       "projectName": "TimeClock.Test",
-      "projectPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\TimeClock.Test.csproj",
-      "packagesPath": "C:\\Users\\Mikae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\obj\\",
+      "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\TimeClock.Test.csproj",
+      "packagesPath": "C:\\Users\\smart\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mikae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\smart\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7014,17 +7014,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\SPYSTORE\\SpyStore.DAL\\nugetpackages": {},
+        "C:\\Users\\smart\\Documents\\GitHub\\KIISpyStore\\KristopherCreelSpyStore.DAL\\nugetpackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj": {
-              "projectPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj"
+            "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj": {
+              "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj"
             },
-            "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj": {
-              "projectPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj"
+            "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj": {
+              "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj"
             }
           }
         }

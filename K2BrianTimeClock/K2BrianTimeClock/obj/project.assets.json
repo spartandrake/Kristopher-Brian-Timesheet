@@ -1121,7 +1121,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational.Design/1.1.6": {
-      "sha512": "9oGioQfFA1Lfo+gEQR5y2CJ8Laev17WXgosYN+TAlwC92KCeeKVNOLtkz0nqDhVUlIWp7VVRXEX92GSRsdd+Xg==",
+      "sha512": "XVlEYWa4C0ZeO4MbiOlrRdz3ujaHJVYe1tK0IUh8dAT5OW1qAgUKcz2VEwj41tIBxBkeyMzj5UEECdpi3KQFkg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational.design/1.1.6",
       "files": [
@@ -1147,7 +1147,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.SqlServer.Design/1.1.6": {
-      "sha512": "TBH6CWmLns4U38WO64Q9ecOcWdMHCdFX/2vM4aJtbrt2CftG4TbAY5/9BNVacw/64HbCv7Hzjk/5xU26gxL8Xg==",
+      "sha512": "UgXcudeAi4mFO3Ynk12lfEDbsNWmDS8IgX+kJKrgxFaAl/E3yzJmF+8kR0MJ1n7NHAeAzL+Hb6w1+K6x9Yss8A==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlserver.design/1.1.6",
       "files": [
@@ -2548,7 +2548,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "TxwOoUJaWFHSoKrL4wOoqm7ISpP1MoOeESRXcY+ccfan21bDTGFe1xIaqvY9Bw4t79ay6pA7E4+dt9EfSOR+rA==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -3628,23 +3628,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mikae\\.nuget\\packages\\": {},
+    "C:\\Users\\smart\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj",
       "projectName": "K2BrianTimeClock.DAL",
-      "projectPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj",
-      "packagesPath": "C:\\Users\\Mikae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\obj\\",
+      "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj",
+      "packagesPath": "C:\\Users\\smart\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mikae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\smart\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3652,14 +3652,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\SPYSTORE\\SpyStore.DAL\\nugetpackages": {},
+        "C:\\Users\\smart\\Documents\\GitHub\\KIISpyStore\\KristopherCreelSpyStore.DAL\\nugetpackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj": {
-              "projectPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj"
+            "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj": {
+              "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj"
             }
           }
         }
