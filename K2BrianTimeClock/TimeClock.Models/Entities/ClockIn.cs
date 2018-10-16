@@ -1,12 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 using TimeClock.Models.Entities.Base;
 
 namespace TimeClock.Models.Entities
 {
-    class ClockIn : EntityBase
+    [Table("ClockTime", Schema = "TimeClock")]
+    public class ClockTime : EntityBase
     {
-
+        public DateAndTime TimeIn { get; set; }
+        public DateAndTime TimeOut { get; set; }
+        public int EmployeeId { get; set; }
     }
 }

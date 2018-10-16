@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace TimeClock.Models.Entities
 {
-    class Manager : Employee
+    [Table("Manager", Schema = "TimeClock")]
+    public class Manager : Employee
     {
 
     }
