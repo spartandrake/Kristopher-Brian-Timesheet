@@ -5,7 +5,7 @@ using TimeClock.Models.Entities.Base;
 
 namespace TimeClock.Models.Entities
 {
-    class ClockOut : EntityBase
+    class DateTime : EntityBase
     {
     }
 }
