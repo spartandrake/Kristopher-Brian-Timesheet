@@ -14,7 +14,11 @@ namespace TimeClock.Models.Entities
         public DateAndTime TimeIn { get; set; }
         [Display(Name = "Time Clocked Out")]
         public DateAndTime TimeOut { get; set; }
+        [Display(Name = "Total Hours")]
+        public decimal HoursWorked { get; set; }
         [ForeignKey("EmployeeId")]
         public int Employee { get; set; }
+        [ForeignKey("TimeSheetId")]
+        public int TimeSheet { get; set; }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 using TimeClock.Models.Entities.Base;
@@ -17,5 +18,7 @@ namespace TimeClock.Models.Entities
 
         [ForeignKey("EmployeeId")]
         public Employee Employee { get; set; }
+
+        public decimal CurrentWage { get; set; }
     }
 }

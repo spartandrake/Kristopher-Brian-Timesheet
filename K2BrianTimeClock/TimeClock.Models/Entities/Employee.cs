@@ -17,7 +17,7 @@ namespace TimeClock.Models.Entities
         public string EmployeeLastName { get; set; }
 
         [DataType(DataType.Currency), MaxLength(4)]
-        public string Wage { get; set; }
+        public decimal Wage { get; set; }
 
         [Required]
         [EmailAddress]
