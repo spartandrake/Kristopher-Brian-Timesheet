@@ -10,21 +10,35 @@ namespace TimeClock.Models.Entities
     [Table("Employees", Schema = "TimeClock")]
     public class Employee : EntityBase
     {
-        [DataType(DataType.Text), MaxLength(50)]
+        [DataType(DataType.Text), MaxLength(50), Display(Name = "First Name")]
         public string EmployeeFirstName { get; set; }
 
-        [DataType(DataType.Text), MaxLength(50)]
+        [DataType(DataType.Text), MaxLength(50), Display(Name = "Last Name")]
         public string EmployeeLastName { get; set; }
 
         [DataType(DataType.Currency), MaxLength(4)]
         public string Wage { get; set; }
 
-        [DataType(DataType.Text), MaxLength(24)]
-        public string Username { get; set; }
+        [Required]
+        [EmailAddress]
+        [DataType(DataType.EmailAddress), MaxLength(50), Display(Name = "Email Address")]
+        public string EmailAdress { get; set; }
 
-        public Boolean IsActive { get; set; }
-        public Boolean IsExempt { get; set; }
+        [Required]
+        [DataType(DataType.Password), MaxLength(50)]
+        public string Password { get; set; }
+
+        public bool IsActive { get; set; }
+
+        public bool IsExempt { get; set; }
+
+        [ForeignKey("ManagerId")]
         public Manager Supervisor { get; set; }
+
+        [InverseProperty(nameof(TimeSheet.Employee))]
         public TimeSheet[] PreviousTimeSheets { get; set; }
+
+        [ForeignKey("TimeSheetId")]
+        public TimeSheet CurrentTimeSheet { get; set; }
     }
 }

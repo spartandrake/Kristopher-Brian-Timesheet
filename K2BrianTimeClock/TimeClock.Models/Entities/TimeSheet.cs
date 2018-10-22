@@ -9,8 +9,13 @@ namespace TimeClock.Models.Entities
     [Table("TimeSheet", Schema = "TimeClock")]
     public class TimeSheet : EntityBase
     {
-        public ClockTime[] ClockIns { get; set; }
+        public ClockIn[] ClockIns { get; set; }
+
         public int HoursWorked { get; set; }
+
         public int TotalPay { get; set; }
+
+        [ForeignKey("EmployeeId")]
+        public Employee Employee { get; set; }
     }
 }

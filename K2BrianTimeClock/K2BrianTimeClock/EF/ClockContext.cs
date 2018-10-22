@@ -53,21 +53,22 @@ namespace K2BrianTimeClock.DAL.EF
         {
             modelBuilder.Entity<Employee>(entity =>
             {
-                entity.Property(e => e.wage).HasColumnType("money");
+                entity.HasIndex(e => e.EmailAdress).HasName("IX_Employees").IsUnique();
+            });
+
+            modelBuilder.Entity<Employee>(entity =>
+            {
+                entity.Property(e => e.Wage).HasColumnType("money");
             });
 
     
             modelBuilder.Entity<TimeSheet>(entity =>
             {
-                entity.Property(e => e.totalPay).HasColumnType("money");
+                entity.Property(e => e.TotalPay).HasColumnType("money");
             });
 
 
-            modelBuilder.Entity<Employee>(entity =>
-            {
-                entity.HasIndex(e => e.userName).HasName("JohnDoe").IsUnique;
-            });
-
+         
 
         }
     }
