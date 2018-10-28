@@ -11,8 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("K2BrianTimeClock.DAL")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Brian Duncan, Mikael Hinton, Kristopher Creel ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright 2018 (c) Brian Duncan, Mikael Hinton, Kristopher Creel. All rights rese" +
+    "rved")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Models for TimeClock Applications")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("K2BrianTimeClock.DAL")]
