@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TimeClock.Models.Entities
 {
-    [Table("HRManager", Schema = "TimeClock")]
+    [Table("HRManagers", Schema = "TimeClock")]
     public class HRManager : Manager
     {
     }

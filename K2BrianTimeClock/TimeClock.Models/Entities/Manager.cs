@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TimeClock.Models.Entities
 {
-    [Table("Manager", Schema = "TimeClock")]
+    [Table("Managers", Schema = "TimeClock")]
     public class Manager : Employee
     {
         [InverseProperty(nameof(Employee.Supervisor))]
