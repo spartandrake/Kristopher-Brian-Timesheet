@@ -6,7 +6,7 @@ using TimeClock.Models.Entities.Base;
 
 namespace TimeClock.Models.Entities
 {
-    [Table("DateAndTime", Schema = "TimeClock")]
+    [Table("DateAndTimes", Schema = "TimeClock")]
     public class DateAndTime : EntityBase
     {
         public int Minute { get; set; }

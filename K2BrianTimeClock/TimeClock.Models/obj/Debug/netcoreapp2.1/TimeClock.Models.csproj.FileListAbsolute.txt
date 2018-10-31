@@ -14,3 +14,4 @@ C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\Time
 C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.AssemblyInfo.cs
 C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.dll
 C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.pdb
+C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.csprojAssemblyReference.cache

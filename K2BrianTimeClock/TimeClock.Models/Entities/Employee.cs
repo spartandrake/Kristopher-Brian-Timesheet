@@ -22,7 +22,7 @@ namespace TimeClock.Models.Entities
         [Required]
         [EmailAddress]
         [DataType(DataType.EmailAddress), MaxLength(50), Display(Name = "Email Address")]
-        public string EmailAdress { get; set; }
+        public string EmailAddress { get; set; }
 
         [Required]
         [DataType(DataType.Password), MaxLength(50)]

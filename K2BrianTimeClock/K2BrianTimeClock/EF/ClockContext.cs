@@ -53,7 +53,7 @@ namespace K2BrianTimeClock.DAL.EF
         {
             modelBuilder.Entity<Employee>(entity =>
             {
-                entity.HasIndex(e => e.EmailAdress).HasName("IX_Employees").IsUnique();
+                entity.HasIndex(e => e.EmailAddress).HasName("IX_Employees").IsUnique();
             });
 
             modelBuilder.Entity<Employee>(entity =>
@@ -69,8 +69,8 @@ namespace K2BrianTimeClock.DAL.EF
 
             modelBuilder.Entity<TimeSheet>(entity =>
             {
-                entity.Property(e => e.HoursWorked)
-                .HasComputedColumnSql("[]");
+                //entity.Property(e => e.HoursWorked)
+                //.HasComputedColumnSql("[]");
                 entity.Property(e => e.TotalPay)
                 .HasColumnType("money")
                 .HasComputedColumnSql("[HoursWorked]*[Wage]");
