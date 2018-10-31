@@ -15,3 +15,12 @@ C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\Time
 C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.AssemblyInfo.cs
 C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.dll
 C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.pdb
+C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\bin\Debug\netcoreapp2.1\TimeClock.Models.deps.json
+C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\bin\Debug\netcoreapp2.1\TimeClock.Models.dll
+C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\bin\Debug\netcoreapp2.1\TimeClock.Models.pdb
+C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.csprojAssemblyReference.cache
+C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.csproj.CoreCompileInputs.cache
+C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.AssemblyInfoInputs.cache
+C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.AssemblyInfo.cs
+C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.dll
+C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\TimeClock.Models\obj\Debug\netcoreapp2.1\TimeClock.Models.pdb

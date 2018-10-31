@@ -2301,7 +2301,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational.Design/1.1.6": {
-      "sha512": "XVlEYWa4C0ZeO4MbiOlrRdz3ujaHJVYe1tK0IUh8dAT5OW1qAgUKcz2VEwj41tIBxBkeyMzj5UEECdpi3KQFkg==",
+      "sha512": "UVq94HrsK/eUSo4bkYBYW30UQ/uH2GoXcjTv7oIdeMKnAjLE3jm3C/BmftkQpr9beQCSbbcEySaVDhjlhrcQJQ==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.relational.design/1.1.6",
       "files": [
@@ -2327,7 +2327,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.SqlServer.Design/1.1.6": {
-      "sha512": "UgXcudeAi4mFO3Ynk12lfEDbsNWmDS8IgX+kJKrgxFaAl/E3yzJmF+8kR0MJ1n7NHAeAzL+Hb6w1+K6x9Yss8A==",
+      "sha512": "TBH6CWmLns4U38WO64Q9ecOcWdMHCdFX/2vM4aJtbrt2CftG4TbAY5/9BNVacw/64HbCv7Hzjk/5xU26gxL8Xg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlserver.design/1.1.6",
       "files": [
@@ -3577,10 +3577,11 @@
       ]
     },
     "System.Collections.NonGeneric/4.0.1": {
-      "sha512": "hMxFT2RhhlffyCdKLDXjx8WEC5JfCvNozAZxCablAuFRH74SCV4AgzE8yJCh/73bFnEoZgJ9MJmkjQ0dJmnKqA==",
+      "sha512": "00tOaRBr5u4JsckEJfBw1eI4Frc5pOFM5gSdqr6oMYjXwQLLhV/LAl2Ty0BgELDvSuqBRBETTgNCMwRuUShk9Q==",
       "type": "package",
       "path": "system.collections.nongeneric/4.0.1",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4115,10 +4116,11 @@
       ]
     },
     "System.Diagnostics.Process/4.1.0": {
-      "sha512": "mpVZ5bnlSs3tTeJ6jYyDJEIa6tavhAd88lxq1zbYhkkCu0Pno2+gHXcvZcoygq2d8JxW3gojXqNJMTAshduqZA==",
+      "sha512": "4dlFhzwmI3hl32P+8c9hnytYtV7Xldhsokm5i7Fvv5PmTS68TQCfsuJrREIyF9N1B8zlsSomp7AVrXLe45kKFQ==",
       "type": "package",
       "path": "system.diagnostics.process/4.1.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4262,10 +4264,11 @@
       ]
     },
     "System.Diagnostics.TraceSource/4.0.0": {
-      "sha512": "6WVCczFZKXwpWpzd/iJkYnsmWTSFFiU24Xx/YdHXBcu+nFI/ehTgeqdJQFbtRPzbrO3KtRNjvkhtj4t5/WwWsA==",
+      "sha512": "bGUeY5wiCHYSWbYZS3QjbaQ1hNoJ1RQBQMB3E0Cgh6AH//4rXfXIOHKIW46HDOsTEDoNfvFNDXphL5W5B/XMwQ==",
       "type": "package",
       "path": "system.diagnostics.tracesource/4.0.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4389,7 +4392,7 @@
       ]
     },
     "System.Dynamic.Runtime/4.0.11": {
-      "sha512": "9aCDDLv6Gxv9CNySX5C76gt53qxKp3bGIrMBtnZnsyQtXcFrUDUI4TQQlEABXusW4ew5Yi9w2cjJh7ROnTXJ4Q==",
+      "sha512": "db34f6LHYM0U0JpE+sOmjar27BnqTVkbLJhgfwMpTdgTigG/Hna3m2MYVwnFzGGKnEJk2UXFuoVTr8WUbU91/A==",
       "type": "package",
       "path": "system.dynamic.runtime/4.0.11",
       "files": [
@@ -4884,7 +4887,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "2HdOGn8HShDpezUPbgNQTTPTwqtd0nXtr0XtT+E+AaLORj6izGVpfzxrGszBJt/3YWXN7dsIgFGJ42h86XMQVQ==",
+      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -5033,7 +5036,7 @@
       ]
     },
     "System.Private.DataContractSerialization/4.1.1": {
-      "sha512": "KlfOm3JUJHLGyOEt1M5kml08ii9P2fx9XNd2tSvykVdP7ETCbxRFI7Q2w/qmjjOAL9bWQl2g7BsxAK5E00nNYA==",
+      "sha512": "lcqFBUaCZxPiUkA4dlSOoPZGtZsAuuElH2XHgLwGLxd7ZozWetV5yiz0qGAV2AUYOqw97MtZBjbLMN16Xz4vXA==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.1.1",
       "files": [
@@ -5273,10 +5276,11 @@
       ]
     },
     "System.Reflection.Metadata/1.3.0": {
-      "sha512": "jMSCxA4LSyKBGRDm/WtfkO03FkcgRzHxwvQRib1bm2GZ8ifKM1MX1al6breGCEQK280mdl9uQS7JNPXRYk90jw==",
+      "sha512": "qCIx1jFdXi4k2l0JYCy0ukWKmeZZmZvu62sDe3pu4o2KoIc2Q3Pf7jOi92wh4hpAhYVisXcEDJkOASuMaDeSLw==",
       "type": "package",
       "path": "system.reflection.metadata/1.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.1/System.Reflection.Metadata.dll",
@@ -5799,10 +5803,11 @@
       ]
     },
     "System.Runtime.Loader/4.0.0": {
-      "sha512": "4UN78GOVU/mbDFcXkEWtetJT/sJ0yic2gGk1HSlSpWI0TDf421xnrZTDZnwNBapk1GQeYN7U1lTj/aQB1by6ow==",
+      "sha512": "/ol/Y9N+MghH5YPeeFuad34s2mclOPJJ4fs2hnFHr04QfGpUSBlcbpp/P3fggCNrZXwVKQEKgHu7SnA43Y8ang==",
       "type": "package",
       "path": "system.runtime.loader/4.0.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/net462/_._",
@@ -5823,7 +5828,7 @@
       ]
     },
     "System.Runtime.Serialization.Json/4.0.2": {
-      "sha512": "AYmr/28tlUjTykm4QsH/WdvaYaB5pc2fgyT0xws03U5bH0KLn4Elu/1WRE8jz3uf+v2/h1lUTb9nPcqGgTUfXw==",
+      "sha512": "+7DIJhnKYgCzUgcLbVTtRQb2l1M0FP549XFlFkQM5lmNiUBl44AfNbx4bz61xA8PzLtlYwfmif4JJJW7MPPnjg==",
       "type": "package",
       "path": "system.runtime.serialization.json/4.0.2",
       "files": [
@@ -5880,7 +5885,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.1.1": {
-      "sha512": "O2RsTVaWCsAIH2BbNWZdQM7vmsYWRWIOz8BlMfqvxmyIzrKEMm7FtCSNwHGo0hkB8XZX4tELLH5K/tyHQ//PpA==",
+      "sha512": "HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.1.1",
       "files": [
@@ -6444,10 +6449,11 @@
       ]
     },
     "System.Threading.Thread/4.0.0": {
-      "sha512": "gIdJqDXlOr5W9zeqFErLw3dsOsiShSCYtF9SEHitACycmvNvY8odf9kiKvp6V7aibc8C4HzzNBkWXjyfn7plbQ==",
+      "sha512": "Tlo/QJ5w4UhgO7Abxz3k9LL/nfQ9/2ioc88cQIMOjNhzK1QGJvvH+A6w5Sx+u99D6lgR+1Nj1YZ9/lknR963kQ==",
       "type": "package",
       "path": "system.threading.thread/4.0.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6482,10 +6488,11 @@
       ]
     },
     "System.Threading.ThreadPool/4.0.10": {
-      "sha512": "IMXgB5Vf/5Qw1kpoVgJMOvUO1l32aC+qC3OaIZjWJOjvcxuxNWOK2ZTWWYXfij22NHxT2j1yWX5vlAeQWld9vA==",
+      "sha512": "pA0DnoJ59NlilSdLLwPLKECkTaVF4lbPSM70UqdJQgzJ0r3UHthhlN1T4TmrN6uiXDwPcc2+rI4+5FGtMCdj3g==",
       "type": "package",
       "path": "system.threading.threadpool/4.0.10",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6656,7 +6663,7 @@
       ]
     },
     "System.Xml.XmlDocument/4.0.1": {
-      "sha512": "dnbqkGHBL9CufrlGZgnZ+ITewYlSMD9hNsekP0D5oASIRb2yyqPPTTejmhlXvyI/COn3Gfm3DsvvFOnfnub1cg==",
+      "sha512": "2eZu6IP+etFVBBFUFzw2w6J21DqIN5eL9Y8r8JfJWUmV28Z5P0SNU01oCisVHQgHsDhHPnmq2s1hJrJCFZWloQ==",
       "type": "package",
       "path": "system.xml.xmldocument/4.0.1",
       "files": [
@@ -6693,7 +6700,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.0.11": {
-      "sha512": "gMAUM0t9Ojg6XHXnmcI3HJY5JPRUNir+tB7jass/HK0XW69VRjiycYxKd3URqKvLv6aBKlDQtV2uB4MTp35Epg==",
+      "sha512": "FrazwwqfIXTfq23mfv4zH+BjqkSFNaNFBtjzu3I9NRmG8EELYyrv/fJnttCIwRMFRR/YKXF1hmsMmMEnl55HGw==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.0.11",
       "files": [
@@ -6762,10 +6769,11 @@
       ]
     },
     "System.Xml.XPath/4.0.1": {
-      "sha512": "UWd1H+1IJ9Wlq5nognZ/XJdyj8qPE4XufBUkAW59ijsCPjZkZe0MUzKKJFBr+ZWBe5Wq1u1d5f2CYgE93uH7DA==",
+      "sha512": "ZSggpSPfkWVcxAqXitdespw9f8KdNq2gJX9+BsGHjx0VaOEPgpcsd+03BgSxrymMWIIC08jREfiOp7UE9v2wWA==",
       "type": "package",
       "path": "system.xml.xpath/4.0.1",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6799,10 +6807,11 @@
       ]
     },
     "System.Xml.XPath.XmlDocument/4.0.1": {
-      "sha512": "Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
+      "sha512": "gQQaCNO5FYxD37SNQvE+yZUNfCt/Y+FgCnead3hu37RsUiwy2cxqRDWPv+Ee+6DlOeV47xaSYYZ6GQW4EhoEXQ==",
       "type": "package",
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6834,7 +6843,7 @@
       ]
     },
     "xunit/2.4.0": {
-      "sha512": "4pnZFnhaXnCi782UlqJmPfEOfCXRlo44M59UbAKdMLe6VIn2Zj8zqoSCxOrfK8thkFbu9d7PEX9eGICzYn3S0g==",
+      "sha512": "qR8BQB8EVkKI+fPpVvLLDdc5Ef/GfHUrsQFYXeOaCNqA1ijhZJCXllFVuZfIf0R/WpZ1UJtoNhjrHB8xC8fPJg==",
       "type": "package",
       "path": "xunit/2.4.0",
       "files": [
@@ -6844,7 +6853,7 @@
       ]
     },
     "xunit.abstractions/2.0.2": {
-      "sha512": "sv5mGFG6uH056gt+SeymQ3kOf/GnueKe5Ayz/gOgAsD9P/gT1HfHq2i7d9B2zOAVbgL/kQdq0S9rvBryYvAYyQ==",
+      "sha512": "lX06DG0EjzC6U+QVVCThaDjGBHMk9qYomnEotK7oxjgvW3jxFW4gEWSvRe2/GlyBjI0ICGB21VgmvS5L5MM6Wg==",
       "type": "package",
       "path": "xunit.abstractions/2.0.2",
       "files": [
@@ -6860,7 +6869,7 @@
       ]
     },
     "xunit.analyzers/0.10.0": {
-      "sha512": "zCxBwrfx2xeoOf95c+LZ0iBPD7llazJolXOIIRv+wZVlk5kqFAN8PvOYi4mEVCtAQATgGdC8vjl1txU+EgZziQ==",
+      "sha512": "Uw6EqkOmt0IystUtzkU4U8ixCEz+piqgczyoPT00RwPDsWHtWwzedjsBQTS6P1h2+uwDF6w5UpYt5/SSE7eexQ==",
       "type": "package",
       "path": "xunit.analyzers/0.10.0",
       "files": [
@@ -6873,7 +6882,7 @@
       ]
     },
     "xunit.assert/2.4.0": {
-      "sha512": "lolyezjBVLRauOs1QJhHn8CUAcTBFz5UadHWESkKW+kkaCDwMW2xhbKklObxq2X3dO72W9/HQFNpRMSScRIgww==",
+      "sha512": "3QEiXEVHxLh+NRvhPijcYx+7onfOhiq8rKVldhDtVJ9a/rLAbwnR0DURn8g4MiBwgejuqta+APa61EZdGC+L8Q==",
       "type": "package",
       "path": "xunit.assert/2.4.0",
       "files": [
@@ -6887,7 +6896,7 @@
       ]
     },
     "xunit.core/2.4.0": {
-      "sha512": "KN4l+EzzRX8tTfB+VBkKAZCCa0dGzW9jtjpc19ZXrRO1b9zn/5vFptvB4aei21L8XQSbY+g/phPQAFIAq8pzsw==",
+      "sha512": "pp0f1fpVqoA+eyLWPR3bQsj8l7cbFZXETqNa1aBGWO3ewV3l89WvredQuEgOsNI9ffw7TB24oU/iGKwBVr7xWg==",
       "type": "package",
       "path": "xunit.core/2.4.0",
       "files": [
@@ -6901,7 +6910,7 @@
       ]
     },
     "xunit.extensibility.core/2.4.0": {
-      "sha512": "nJyYBtUQOI5VZTaFFtE/kU3tj2a5+mxqN3GE75rnHQhfCskOB3eW8E98ARfMZTrP7hKeDYAxYQaORmeJPBF3jg==",
+      "sha512": "TTxWCTKosHhfvH195H6NhIv40mXZpaiBU5BIIjeMHDeKT3drzgC436HH4TFHKM9hNVGMnYG4f+jUjEtgIL0D7w==",
       "type": "package",
       "path": "xunit.extensibility.core/2.4.0",
       "files": [
@@ -6920,7 +6929,7 @@
       ]
     },
     "xunit.extensibility.execution/2.4.0": {
-      "sha512": "dVJIi7y7uSvFEInNIauX3QTtKkFoATb824NT3hHKKvjenhcV8qx1EracbFu2igLvyoVPpN04mYYGCRpAe35Usw==",
+      "sha512": "rchl0pAgHx291bvmeO2ID53TnaQq06kNsJ3alaBEinvzzyOtkvmoxGPs1AgELjg9SRTTlOuhAHdJTTJe0N2zYQ==",
       "type": "package",
       "path": "xunit.extensibility.execution/2.4.0",
       "files": [
@@ -6936,7 +6945,7 @@
       ]
     },
     "xunit.runner.visualstudio/2.4.0": {
-      "sha512": "spS399J48cRVHJL4BRPT3FXBlINlJ6hh9f/8VfgkPRVjsqTU+CuDxvqsFzdj6++k+HxfFJP0ZPnbnLVNeH8zhQ==",
+      "sha512": "0k66QGvVZD03GA5/GVhcINzAu/JPNFYzzy9Dez4KGZKAq6qsYV7ajN22SyT8mbV0kjnJQDYf7IaZP7n/12lSoQ==",
       "type": "package",
       "path": "xunit.runner.visualstudio/2.4.0",
       "files": [
@@ -6990,23 +6999,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tayco\\.nuget\\packages\\": {},
+    "C:\\Users\\bdunc\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tayco\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\TimeClock.Test.csproj",
+      "projectUniqueName": "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\TimeClock.Test.csproj",
       "projectName": "TimeClock.Test",
-      "projectPath": "C:\\Users\\Tayco\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\TimeClock.Test.csproj",
-      "packagesPath": "C:\\Users\\Tayco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tayco\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\obj\\",
+      "projectPath": "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\TimeClock.Test.csproj",
+      "packagesPath": "C:\\Users\\bdunc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tayco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bdunc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7014,17 +7023,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Tayco\\source\\repos\\BrianDuncanSpyStore.DAL": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Tayco\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj": {
-              "projectPath": "C:\\Users\\Tayco\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj"
+            "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj": {
+              "projectPath": "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\K2BrianTimeClock\\K2BrianTimeClock.DAL.csproj"
             },
-            "C:\\Users\\Tayco\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj": {
-              "projectPath": "C:\\Users\\Tayco\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj"
+            "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj": {
+              "projectPath": "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj"
             }
           }
         }
