@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace K2BrianTimeClock.DAL.EF.Migrations
 {
     [DbContext(typeof(ClockContext))]
-    [Migration("20181112012540_Initial")]
+    [Migration("20181112014624_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -85,6 +85,10 @@ namespace K2BrianTimeClock.DAL.EF.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<decimal>("CurrentWage")
+                        .HasColumnType("money")
+                        .HasMaxLength(4);
+
                     b.Property<string>("Discriminator")
                         .IsRequired();
 
@@ -113,10 +117,6 @@ namespace K2BrianTimeClock.DAL.EF.Migrations
                     b.Property<byte[]>("TimeStamp")
                         .IsConcurrencyToken()
                         .ValueGeneratedOnAddOrUpdate();
-
-                    b.Property<decimal>("Wage")
-                        .HasColumnType("money")
-                        .HasMaxLength(4);
 
                     b.HasKey("Id");
 
@@ -152,7 +152,7 @@ namespace K2BrianTimeClock.DAL.EF.Migrations
                     b.Property<decimal>("TotalPay")
                         .ValueGeneratedOnAddOrUpdate()
                         .HasColumnType("money")
-                        .HasComputedColumnSql("[HoursWorked]*[Wage]");
+                        .HasComputedColumnSql("[HoursWorked]*[CurrentWage]");
 
                     b.HasKey("Id");
 

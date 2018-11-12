@@ -72,7 +72,7 @@ namespace K2BrianTimeClock.DAL.EF.Migrations
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     TimeStamp = table.Column<byte[]>(rowVersion: true, nullable: true),
                     HoursWorked = table.Column<int>(nullable: false),
-                    TotalPay = table.Column<decimal>(type: "money", nullable: false, computedColumnSql: "[HoursWorked]*[Wage]"),
+                    TotalPay = table.Column<decimal>(type: "money", nullable: false, computedColumnSql: "[HoursWorked]*[CurrentWage]"),
                     EmployeeId = table.Column<int>(nullable: true),
                     CurrentWage = table.Column<decimal>(nullable: false)
                 },
@@ -91,7 +91,7 @@ namespace K2BrianTimeClock.DAL.EF.Migrations
                     TimeStamp = table.Column<byte[]>(rowVersion: true, nullable: true),
                     EmployeeFirstName = table.Column<string>(maxLength: 50, nullable: true),
                     EmployeeLastName = table.Column<string>(maxLength: 50, nullable: true),
-                    Wage = table.Column<decimal>(type: "money", maxLength: 4, nullable: false),
+                    CurrentWage = table.Column<decimal>(type: "money", maxLength: 4, nullable: false),
                     EmailAddress = table.Column<string>(maxLength: 50, nullable: false),
                     Password = table.Column<string>(maxLength: 50, nullable: false),
                     IsActive = table.Column<bool>(nullable: false),

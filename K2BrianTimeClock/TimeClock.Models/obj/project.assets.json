@@ -3406,23 +3406,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mikae\\.nuget\\packages\\": {},
+    "C:\\Users\\smart\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
+      "projectUniqueName": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
       "projectName": "TimeClock.Models",
-      "projectPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
-      "packagesPath": "C:\\Users\\Mikae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\obj\\",
+      "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
+      "packagesPath": "C:\\Users\\smart\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mikae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\smart\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3430,7 +3430,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\SPYSTORE\\SpyStore.DAL\\nugetpackages": {},
+        "C:\\Users\\smart\\Documents\\GitHub\\KIISpyStore\\KristopherCreelSpyStore.DAL\\nugetpackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

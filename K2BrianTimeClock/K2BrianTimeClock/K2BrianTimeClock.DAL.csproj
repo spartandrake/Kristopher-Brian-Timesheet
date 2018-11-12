@@ -31,5 +31,8 @@
   <ItemGroup>
     <ProjectReference Include="..\TimeClock.Models\TimeClock.Models.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EF\Migrations\" />
+  </ItemGroup>
 
 </Project>
