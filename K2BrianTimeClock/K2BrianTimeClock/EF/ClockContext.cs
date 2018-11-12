@@ -26,20 +26,11 @@ namespace K2BrianTimeClock.DAL.EF
 
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            //Kris and Bryan
-            
+        {            
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=TimeClock;Trusted_Connection=True;MultipleActiveResultSets=true;", options => options.EnableRetryOnFailure());
+                optionsBuilder.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=K2BRIANTIMECLOCK;Trusted_Connection=True;MultipleActiveResultSets=true;", options => options.EnableRetryOnFailure());
             }
-            
-            //Mikael
-            /*
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer(@"Server=MIKAEL-LAPTOP\SQLEXPRESS;Database=SpyStore;Trusted_Connection=True;MultipleActiveResultSets=true;", options => options.EnableRetryOnFailure());
-            }*/
         }
 
         public DbSet<Employee> Employees { get; set; }

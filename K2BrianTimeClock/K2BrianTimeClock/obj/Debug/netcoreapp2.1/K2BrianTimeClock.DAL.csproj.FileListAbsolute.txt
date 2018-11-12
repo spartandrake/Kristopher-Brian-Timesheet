@@ -1,45 +1,14 @@
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.deps.json
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.runtimeconfig.json
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.runtimeconfig.dev.json
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.dll
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.dll
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.pdb
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csprojAssemblyReference.cache
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfoInputs.cache
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfo.cs
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CopyComplete
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.dll
-C:\Users\Tayco\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb
-<<<<<<< HEAD
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.deps.json
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.runtimeconfig.json
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.runtimeconfig.dev.json
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.dll
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.dll
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.pdb
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csprojAssemblyReference.cache
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CoreCompileInputs.cache
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfoInputs.cache
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfo.cs
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CopyComplete
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.dll
-C:\Users\bdunc\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb
-=======
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.deps.json
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.runtimeconfig.json
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.runtimeconfig.dev.json
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.dll
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.dll
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.pdb
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csprojAssemblyReference.cache
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CoreCompileInputs.cache
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfoInputs.cache
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfo.cs
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CopyComplete
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.dll
-C:\Users\smart\Documents\GitHub\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb
->>>>>>> 5a182a03af0e71b7dc0ff40ac31fc585fa9606ae
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.deps.json
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.runtimeconfig.json
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.runtimeconfig.dev.json
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.dll
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.dll
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\bin\Debug\netcoreapp2.1\TimeClock.Models.pdb
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csprojAssemblyReference.cache
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfoInputs.cache
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.AssemblyInfo.cs
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.csproj.CopyComplete
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.dll
+C:\Users\Mikae\OneDrive\Desktop\CS 220 - Web Application Development\Kristopher-Brian-Timesheet\K2BrianTimeClock\K2BrianTimeClock\obj\Debug\netcoreapp2.1\K2BrianTimeClock.DAL.pdb

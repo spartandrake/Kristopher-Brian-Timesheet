@@ -3406,39 +3406,23 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\bdunc\\.nuget\\packages\\": {},
-=======
-    "C:\\Users\\smart\\.nuget\\packages\\": {},
->>>>>>> 5a182a03af0e71b7dc0ff40ac31fc585fa9606ae
+    "C:\\Users\\Mikae\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
       "projectName": "TimeClock.Models",
-      "projectPath": "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
-      "packagesPath": "C:\\Users\\bdunc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bdunc\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
-      "projectName": "TimeClock.Models",
-      "projectPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
-      "packagesPath": "C:\\Users\\smart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smart\\Documents\\GitHub\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\obj\\",
->>>>>>> 5a182a03af0e71b7dc0ff40ac31fc585fa9606ae
+      "projectPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\TimeClock.Models.csproj",
+      "packagesPath": "C:\\Users\\Mikae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\Kristopher-Brian-Timesheet\\K2BrianTimeClock\\TimeClock.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\bdunc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\smart\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 5a182a03af0e71b7dc0ff40ac31fc585fa9606ae
+        "C:\\Users\\Mikae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3446,10 +3430,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
-=======
-        "C:\\Users\\smart\\Documents\\GitHub\\KIISpyStore\\KristopherCreelSpyStore.DAL\\nugetpackages": {},
->>>>>>> 5a182a03af0e71b7dc0ff40ac31fc585fa9606ae
+        "C:\\Users\\Mikae\\OneDrive\\Desktop\\CS 220 - Web Application Development\\SPYSTORE\\SpyStore.DAL\\nugetpackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
