@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "K2BrianTimeClock.DAL", "K2B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeClock.Models", "TimeClock.Models\TimeClock.Models.csproj", "{C22E851A-18D7-4938-93D5-88CB3E3D0D66}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeClock.Test", "TimeClock.Test\TimeClock.Test.csproj", "{CADBF35D-DF98-4D03-B926-46BF4B42EC49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClock.MVC", "TimeClock\TimeClock.MVC.csproj", "{2893AED9-EB4D-4D5F-9541-A87DFE64928F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{C22E851A-18D7-4938-93D5-88CB3E3D0D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C22E851A-18D7-4938-93D5-88CB3E3D0D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C22E851A-18D7-4938-93D5-88CB3E3D0D66}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CADBF35D-DF98-4D03-B926-46BF4B42EC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CADBF35D-DF98-4D03-B926-46BF4B42EC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CADBF35D-DF98-4D03-B926-46BF4B42EC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CADBF35D-DF98-4D03-B926-46BF4B42EC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2893AED9-EB4D-4D5F-9541-A87DFE64928F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2893AED9-EB4D-4D5F-9541-A87DFE64928F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2893AED9-EB4D-4D5F-9541-A87DFE64928F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2893AED9-EB4D-4D5F-9541-A87DFE64928F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
