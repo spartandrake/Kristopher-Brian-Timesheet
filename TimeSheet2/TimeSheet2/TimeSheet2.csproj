@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>aspnet-TimeSheet2-A4C55503-37E0-424C-A60A-157212B148E0</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.4" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="EF\Migrations\" />
+    <Folder Include="Migrations\" />
+    <Folder Include="ViewModels\TimeSheetViewModels\" />
+    <Folder Include="ViewModels\ClockInNewModels\" />
+    <Folder Include="Views\ClockIn\" />
+    <Folder Include="Views\TimeSheet\" />
+  </ItemGroup>
+
+</Project>

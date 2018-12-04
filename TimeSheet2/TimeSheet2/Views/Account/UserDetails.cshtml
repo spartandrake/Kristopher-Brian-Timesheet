@@ -1,0 +1,45 @@
+﻿@model TimeSheet2.ViewModels.AccountViewModels.UserDetailViewModel
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+
+<h2>User: @Model.Email</h2>
+
+@if (User.IsInRole("Administrator"))
+{
+    <a asp-action="Index" class="btn btn-primary">Back to Manage</a>
+}
+else
+{
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Back to Home</a>
+}
+
+
+<div class="row">
+    <div class="col-md-4">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div>
+            <label asp-for="FirstName"></label>
+            <input asp-for="FirstName" class="form-control" ReadOnly="readonly" />
+        </div>
+        <div>
+            <label asp-for="LastName"></label>
+            <input asp-for="LastName" class="form-control" ReadOnly="readonly" />
+        </div>
+        <div>
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" ReadOnly="readonly" />
+        </div>
+        <div>
+            <label asp-for="HourlyWage"></label>
+            <input asp-for="HourlyWage" class="form-control" ReadOnly="readonly" />
+        </div>
+        <div>
+            <label asp-for="Role"></label>
+            <input asp-for="Role" class="form-control" ReadOnly="readonly" />
+        </div>
+    </div>
+</div>
