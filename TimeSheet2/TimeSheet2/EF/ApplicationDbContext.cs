@@ -10,6 +10,13 @@ namespace TimeSheet2.EF
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
+        public DbSet<ApplicationUser> ApplicationUsers
+        {
+            get;
+            set;
+        }
+
+
         public DbSet<ClockIn> ClockIns
         {
             get;
