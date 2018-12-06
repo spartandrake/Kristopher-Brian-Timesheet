@@ -14,7 +14,6 @@
     <Folder Include="Migrations\" />
     <Folder Include="ViewModels\TimeSheetViewModels\" />
     <Folder Include="ViewModels\ClockInNewModels\" />
-    <Folder Include="Views\ClockIn\" />
     <Folder Include="Views\TimeSheet\" />
   </ItemGroup>
 
