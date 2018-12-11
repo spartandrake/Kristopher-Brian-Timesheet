@@ -29,6 +29,10 @@ namespace TimeSheet2.EntityFramework
         [DataType(DataType.Currency)]
         public double HourlyWage { get; set; }
 
+        [Required]
+        [DefaultValue(false)]
+        public bool OnClock { get; set; }
+
         public string SupervisorId { get; set; }
 
         [ForeignKey(nameof(SupervisorId))]
