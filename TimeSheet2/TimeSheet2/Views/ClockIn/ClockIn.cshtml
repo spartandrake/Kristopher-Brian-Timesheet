@@ -12,18 +12,15 @@
                 <hr>
 
                 <div class="form-group">
-                    @if (ClockInViewModel.onClock)
+                    @if (Model.OnClock)
                     {
-                        <h3>You are already clocked in, you need to clock out first.</h3>
+                        <h2>You are already clocked in, you need to clock out first.</h2>
                         <input type="submit" name="Submit" value="Clock Out" asp-route-In="@false" class="btn btn-danger" />
 
                     }
                     else
                     {
-                        <h3>
-                            You are already clocked out, you need to clock in
-                            first.
-                        </h3>
+                        <h2>You are already clocked out, you need to clock in first.</h2>
                         <input type="submit" name="Submit" value="Clock In" asp-route-In="@true" class="btn btn-primary" />
                     }
                 </div>
