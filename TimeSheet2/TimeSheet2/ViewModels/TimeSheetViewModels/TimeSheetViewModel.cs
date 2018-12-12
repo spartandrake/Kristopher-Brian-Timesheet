@@ -8,24 +8,23 @@ namespace TimeSheet2.ViewModels.TimeSheetViewModels
 {
     public class TimeSheetViewModel
     {
-        public class WeeklyReportViewModel
-        {
-            [Required]
-            [DataType(DataType.Date)]
-            [Display(Name = "Start Date")]
-            public DateTime StartDate { get; set; }
+       
+        [Required]
+        [DataType(DataType.Date)]
+        [Display(Name = "Start Date")]
+        public DateTime StartDate { get; set; }
 
-            [Required]
-            [DataType(DataType.Date)]
-            [Display(Name = "End Date")]
-            public DateTime EndDate { get; set; }
+        [Required]
+        [DataType(DataType.Date)]
+        [Display(Name = "End Date")]
+        public DateTime EndDate { get; set; }
 
-            [Required]
-            [Display(Name = "Total Hours Worked")]
-            public DateTime TotalHours { get; set; }
+        [Required]
+        [Display(Name = "Total Hours Worked")]
+        public DateTime TotalHours { get; set; }
 
-            [Display(Name = "Company Wages Paid")]
-            public double TotalEarning { get; set; }
-        }
+        [Display(Name = "Total Earnings")]
+        public double TotalEarning { get; set; }
+        
     }
 }

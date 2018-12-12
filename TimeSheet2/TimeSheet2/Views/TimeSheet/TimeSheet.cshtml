@@ -1,0 +1,49 @@
+﻿@model TimeSheet2.ViewModels.TimeSheetViewModels.TimeSheetViewModel
+
+@{
+    ViewData["Title"] = "AllWeeklyReport";
+}
+
+
+<h2>Time Sheet for week of @ViewBag.currentWeek</h2>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            Start Date
+        </th>
+        <th>
+            End Date
+        </th>
+        <th>
+            Total Hours
+        </th>
+        <th>
+            Total Earnings
+        </th>
+        <th>
+            Links
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    {
+        
+    <tr>
+        <td>
+            @Model.StartDate
+        </td>
+        <td>
+            @Model.EndDate
+        </td>
+        <td>
+            @Model.TotalHours
+        </td>
+        <td>
+            @Model.TotalEarning
+        </td>
+    </tr>
+    }
+    
+    </tbody>
+</table>

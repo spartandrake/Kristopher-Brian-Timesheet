@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 namespace TimeSheet2.Controllers
 {
     [Route("[controller]/[action]")]
-    public class TimeSheetController
+    public class TimeSheetController : Controller
     {    
         //[Authorize(Roles = "Employee, Manager, HRManager, Administator")]
-        public IActionResult ViewTimeSheet()
+        public IActionResult TimeSheet()
         {
 
-            return null;
+            return View();
         }
         
     }
