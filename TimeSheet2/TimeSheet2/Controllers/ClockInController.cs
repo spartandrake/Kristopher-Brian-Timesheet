@@ -18,8 +18,6 @@ namespace TimeSheet2.Controllers
     {
         private readonly ApplicationDbContext _context;
         private readonly UserManager<ApplicationUser> _userManager;
-        private readonly SignInManager<ApplicationUser> _signInManager;
-        private readonly RoleManager<IdentityRole> _roleManager;
 
         public ClockInController(UserManager<ApplicationUser> userManager)
         {

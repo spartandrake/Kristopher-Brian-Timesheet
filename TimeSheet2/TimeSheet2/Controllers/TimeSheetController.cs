@@ -17,13 +17,11 @@ namespace TimeSheet2.Controllers
     [Route("[controller]/[action]")]
     public class TimeSheetController : Controller
     {
-        private double OverTimePay;
-        private double OverTimeLimit;
+        private readonly double OverTimePay = 1.5;
+        private readonly double OverTimeLimit = 40; 
 
         private readonly ApplicationDbContext _context;
         private readonly UserManager<ApplicationUser> _userManager;
-        private readonly SignInManager<ApplicationUser> _signInManager;
-        private readonly RoleManager<IdentityRole> _roleManager;
 
         public TimeSheetController(UserManager<ApplicationUser> userManager)
         {
