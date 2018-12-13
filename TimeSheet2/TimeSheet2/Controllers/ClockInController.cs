@@ -75,7 +75,7 @@ namespace TimeSheet2.Controllers
                     };
                     _context.ClockIns.Add(clockIn);
                     _context.SaveChanges();
-                    return RedirectToAction("Index", new { In = true, Time = clockIn.ClockInTime);
+                    return RedirectToAction("Index", new { In = true, Time = clockIn.ClockInTime });
                 }
                 if (model.OnClock && !In)
                 {
