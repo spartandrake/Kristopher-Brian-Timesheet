@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "TimeSheet - Index";
+}
+
+<h2>TimeSheet</h2>
+
+<a asp-action="ListAllTimeSheets" class="btn btn-primary">View All TimeSheets</a>
+<a asp-action="ListPendingTimeSheets" class="btn btn-primary">View Pending TimeSheets</a>
+<a asp-action="ListApprovedTimeSheets" class="btn btn-primary">View Aproved TimeSheets</a>
+<a asp-action="ListDeniedTimeSheets" class="btn btn-primary">View Denied TimeSheets</a>
+<br />
+<br />
+<a asp-action="CurrentTimeSheet" class="btn btn-primary">View Current TimeSheet</a>
+
+@if (User.IsInRole("Supervisor"))
+{
+    <h2>Supervisors Options</h2>
+    <a asp-action="SupervisorsPendingTimeSheets" class="btn btn-primary">Review Employees TimeSheets</a>
+    <a asp-action="SupervisorsAllTimeSheets" class="btn btn-primary">Employee TimeSheets History</a>
+
+}
+
+@if (User.IsInRole("Payroll"))
+{
+    <h2>Payroll Options</h2>
+    <a asp-action="AllWeeklyReport" class="btn btn-danger">Weekly Reports</a>
+    <a asp-action="AllPendingTimesheets" class="btn btn-danger">All Pending Timesheets</a>
+
+}

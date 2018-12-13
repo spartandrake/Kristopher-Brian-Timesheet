@@ -91,7 +91,7 @@ namespace TimeSheet2.Controllers
         private TimeSheet FindUserTimeSheet(string id)
         {
             var today = DateTime.Now;
-            //DateTime.Today.StartOfWeek(StartOFTime);
+            DateTime.Today.StartOfWeek(DayOfWeek.Monday);
             TimeSheet timeSheet;
 
             if (_context.TimeSheets.Any(x => x.UserId == id))

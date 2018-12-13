@@ -50,7 +50,7 @@ namespace TimeSheet2.Controllers
                     TotalEarning = amountMade,
                     TotalHours = timeWorked,
                     DenialReason = timesheet.ReasonDenied ?? "Not Denied Yet",
-                    TimesheetId = timesheet.Id
+                    TimeSheetId = timesheet.Id
                 });
             }
             return View("ListTimeSheet", timesheets);
@@ -77,7 +77,7 @@ namespace TimeSheet2.Controllers
                     TotalEarning = amountMade,
                     TotalHours = timeWorked,
                     DenialReason = timesheet.ReasonDenied ?? "Not Denied Yet",
-                    TimesheetId = timesheet.Id
+                    TimeSheetId = timesheet.Id
                 });
             }
 
@@ -106,7 +106,7 @@ namespace TimeSheet2.Controllers
                     TotalEarning = amountMade,
                     TotalHours = timeWorked,
                     DenialReason = timesheet.ReasonDenied ?? "Not Denied Yet",
-                    TimesheetId = timesheet.Id
+                    TimeSheetId = timesheet.Id
                 });
             }
 
@@ -135,7 +135,7 @@ namespace TimeSheet2.Controllers
                     TotalEarning = amountMade,
                     TotalHours = timeWorked,
                     DenialReason = timesheet.ReasonDenied ?? "Not Denied Yet",
-                    TimesheetId = timesheet.Id
+                    TimeSheetId = timesheet.Id
                 });
             }
 

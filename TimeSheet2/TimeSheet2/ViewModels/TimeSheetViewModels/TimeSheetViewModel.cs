@@ -10,7 +10,7 @@ namespace TimeSheet2.ViewModels.TimeSheetViewModels
     public class TimeSheetViewModel
     {
         [Required]
-        public int TimesheetId { get; set; }
+        public int TimeSheetId { get; set; }
 
         [Required]
         [DataType(DataType.Date)]
