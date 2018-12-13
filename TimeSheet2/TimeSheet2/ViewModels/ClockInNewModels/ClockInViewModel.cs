@@ -16,7 +16,7 @@ namespace TimeSheet2.ViewModels.ClockInViewModels
        
         public string EmployeeId { get; set; }
 
-        
+        public int TimeSheetId { get; set; }
 
         
 
