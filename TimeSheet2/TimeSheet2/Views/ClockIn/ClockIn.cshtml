@@ -24,7 +24,10 @@
                         <input type="submit" name="Submit" value="Clock In" asp-route-In="@true" class="btn btn-primary" />
                     }
                 </div>
+                @Html.HiddenFor(x => x.TimeSheetId)
+                @Html.HiddenFor(x => x.EmployeeId)
+                @Html.HiddenFor(x => x.OnClock)
             </form>
         </div>
     </div>
-    <div>
+    </div>

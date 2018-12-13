@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
 namespace TimeSheet2.ViewModels.ClockInViewModels
@@ -13,9 +14,10 @@ namespace TimeSheet2.ViewModels.ClockInViewModels
         [DefaultValue(false)]
         public bool OnClock { get; set; }
 
-       
+        [HiddenInput]
         public string EmployeeId { get; set; }
 
+        [HiddenInput]
         public int TimeSheetId { get; set; }
 
         
